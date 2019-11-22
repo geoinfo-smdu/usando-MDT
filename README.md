@@ -4,6 +4,18 @@ Recebntemente o GeoSampa disponibilizou arquivos de MDT (Modelo digital de super
 
 ## Motivação
 
-Buscando divulgar, estudar e formentar diversas formas de uso desse novo elemento do GeoSampa usaremos esse repositório para demonstrar algumas formas de uso, exportação e visualização desses arquivos
+Buscando divulgar, estudar e formentar diversas formas de uso desse novo elemento do GeoSampa usaremos esse repositório para demonstrar algumas formas de uso, exportação e visualização desses arquivos.
+
+## Arquivos para Download
+
+Para fazer o dowanlod dos arquivos MDT:
+
+* Clique em “Pesquisar”
+* Aba “Download Imagens/MDC”
+* Tipo “MDT”
+* Selecione a(s) quadrícula(s) de interesse no mapa
+
+![](https://raw.githubusercontent.com/geoinfo-smdu/usando-MDT/master/images/mdt-como-fazer-download.jpg)
+
 
 

@@ -18,3 +18,4 @@ O comando portanto para rodar esse _PipeLine_ é o seguinte:
 ## Abrindo o arquivo no qGis
 
 Agora que temos o arquivo raster `tiff` podemos importa-lo para o qGis e visualizarmos o terreno 3D.
+![](https://raw.githubusercontent.com/geoinfo-smdu/usando-MDT/master/images/terreno3d.PNG)

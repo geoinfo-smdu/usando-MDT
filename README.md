@@ -17,5 +17,11 @@ Para fazer o dowanlod dos arquivos MDT:
 
 ![](https://raw.githubusercontent.com/geoinfo-smdu/usando-MDT/master/images/mdt-como-fazer-download.jpg)
 
+## Utilizando o Python para processar arquivos LAZ
 
+Acesse o [Jupyter NoteBook para acessar os arquivos LAZ por bibliotecas Python](https://github.com/geoinfo-smdu/usando-MDT/blob/master/Abrindo%20arquivo%20LAZ%20de%20MDT%20em%20Python.ipynb)
 
+## PDAL
+
+[PDal](https://pdal.io/) é uma biblioteca de abstração de pontos que se inspira na bilbioteca GDAL para abstração de dados raster e vetoriais.
+Vamos utilizar a pasta pdal aqui desse repositório para trabalhar alguns comandos de linha de comando.

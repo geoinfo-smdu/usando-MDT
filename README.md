@@ -1,6 +1,6 @@
-# usando MDT
+# Utilizando MDT (Modelo Digital de Terreno do GeoSampa)
 
-Recebntemente o GeoSampa disponibilizou arquivos de MDT (Modelo digital de superfície) de toda o município de São Paulo, resultado de um sobrevoo laser (liDAr) realizado em 2017.
+Recentemente o GeoSampa disponibilizou arquivos de MDT (Modelo digital de superfície) de toda o município de São Paulo, resultado de um sobrevoo laser (liDAr) realizado em 2017. Os arquivos, produtos desse vôo estão começando a ser disponibilizados, e como primeiro esforço os dados de MDT (Modelo digital de Terreno) estão prontos para download.
 
 ## Motivação
 
@@ -23,5 +23,4 @@ Acesse o [Jupyter NoteBook para acessar os arquivos LAZ por bibliotecas Python](
 
 ## PDAL
 
-[PDal](https://pdal.io/) é uma biblioteca de abstração de pontos que se inspira na bilbioteca GDAL para abstração de dados raster e vetoriais.
-Vamos utilizar a pasta pdal aqui desse repositório para trabalhar alguns comandos de linha de comando.
+[PDal](https://pdal.io/) é uma biblioteca de abstração de pontos que se inspira na bilbioteca GDAL para abstração de dados raster e vetoriais. Vamos utilizar a pasta [pdal](https://github.com/geoinfo-smdu/usando-MDT/tree/master/pdal) aqui desse repositório para trabalhar alguns comandos, para tarefas básicas.

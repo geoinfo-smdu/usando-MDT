@@ -15,3 +15,6 @@ O comando portanto para rodar esse _PipeLine_ é o seguinte:
 
 `pdal pipeline ./laz2tiff.json`
 
+## Abrindo o arquivo no qGis
+
+Agora que temos o arquivo raster `tiff` podemos importa-lo para o qGis e visualizarmos o terreno 3D.

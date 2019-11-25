@@ -1,0 +1,10 @@
+[
+    "../mdts/MDT_4315-132_1000_v1.laz",
+    "../mdts/MDT_4315-134_1000_v1.laz",
+    "../mdts/MDT_4315-211_1000_v1.laz",
+    "../mdts/MDT_4315-213_1000_v1.laz",
+    {
+        "type": "filters.merge"
+    },
+    "../mdts/laz_unico.laz"
+]
